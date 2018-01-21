@@ -3,10 +3,6 @@
 > Mencari pulau pulau yang tersedia di wikipedia atau wikidata dan berada pada openstreetmap
 
 ## Installasi
-Clone Repository
-```sh
-git clone https://github.com/Wikimedia-ID/anak-pulau.git && cd anak-pulau
-```
 
 Install dependency
 ```sh
@@ -34,3 +30,4 @@ dan
 ```
 results/Bali_islands.csv
 ```
+  
